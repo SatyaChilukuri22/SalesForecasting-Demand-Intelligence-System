@@ -136,6 +136,18 @@ streamlit run app.py
 
 ---
 
+
+## Project Links
+
+Google Colab Notebook:
+PASTE_YOUR_COLAB_LINK_HERE
+
+Live Streamlit Dashboard:
+PASTE_YOUR_STREAMLIT_APP_LINK_HERE
+
+GitHub Repository:
+https://github.com/SatyaChilukuri22/SalesForecasting-Demand-Intelligence-System.git
+
 ## 👤 Author
 
 **Satya Ganga Chilukuri**
