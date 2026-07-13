@@ -140,10 +140,10 @@ streamlit run app.py
 ## Project Links
 
 Google Colab Notebook:
-PASTE_YOUR_COLAB_LINK_HERE
+https://colab.research.google.com/drive/1q1dxslcD-slVhTEo8awwB3v-OJ5EKu9H?usp=sharing
 
 Live Streamlit Dashboard:
-PASTE_YOUR_STREAMLIT_APP_LINK_HERE
+https://salesforecasting-demand-intelligence-system-8eq3zt4m4rm7rnb43q.streamlit.app/
 
 GitHub Repository:
 https://github.com/SatyaChilukuri22/SalesForecasting-Demand-Intelligence-System.git
