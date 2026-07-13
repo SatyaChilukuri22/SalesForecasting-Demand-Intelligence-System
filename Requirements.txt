@@ -1,0 +1,12 @@
+Libraries Used in the Project
+* streamlit
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* scikit-learn
+* statsmodels
+* prophet
+* xgboost
+* joblib
+* plotly
